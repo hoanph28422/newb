@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "name": "New Product 1",
+      "price": "10000000000",
+      "description": "nothing",
+      "id": 3
+    },
+    {
+      "name": "hoanz",
+      "price": "3212",
+      "image": "bo-the-thao-adidas-cho-nam-gk9950-mau-den-size-m-6352015c694a9-21102022091804.jpg",
+      "description": "nothting",
+      "id": 4
+    },
+    {
+      "name": "hoanz",
+      "price": "3212",
+      "image": "bo-the-thao-adidas-cho-nam-gk9950-mau-den-size-m-6352015c694a9-21102022091804.jpg",
+      "description": "nothting",
+      "id": 5
+    },
+    {
+      "name": "ha",
+      "price": "43423",
+      "image": "bo-the-thao-adidas-cho-nam-gk9950-mau-den-size-m-6352015c694a9-21102022091804.jpg",
+      "description": "nothing",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 2"
+    }
+  ]
+}
